@@ -1,6 +1,6 @@
 # Creating a 3 node kubernetes cluster with ansible
 
-### Requirements
+### Requirements for setting up kubernetes cluster with ansible
 1. A host with Ansible installed. I’ve written previously about how to install Ansible – also, check out the online documentation!
    
    You should also set up an SSH key pair, which will be used to authenticate to the Kubernetes nodes without using a password, allowing Ansible to do it’s thing.
