@@ -101,3 +101,8 @@ kubectl get nodes
 ```
 
 All nodes should be listed
+
+To get all the pods running in the kube-system namespace, run the following command
+```
+kubectl get pods --namespace kube-system
+```
