@@ -99,3 +99,5 @@ Once the playbook has complete we can check the status of the cluster nodes by a
 ```
 kubectl get nodes
 ```
+
+All nodes should be listed
